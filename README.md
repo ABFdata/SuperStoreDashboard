@@ -14,8 +14,6 @@ Overall, sales have increased year over year, but sales do not always mean profi
 
 ![SalesCity](img/4_salescity.png)
 
-<hr>
-
 ## Copyright
 
 ABFdata (C) 2018. All Rights Reserved.
