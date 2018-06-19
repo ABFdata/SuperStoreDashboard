@@ -7,12 +7,13 @@ For this project I analyzed the SuperStore data set provided by Tableau. My goal
 Overall, sales have increased year over year, but sales do not always mean profits. The company is losing money on items such as furniture and must reconsider if they should continue to sell these products. There also seems to be a negative linear relationship with discounts and profits. Higher discounts, means less smaller profits. Why are some items heavily discounted over others? These are some questions that the company should address after analyzing their sales from the last 4 years.
 
 ![Dashboard](img/1_dashboard.png)
-<hr>
+
 ![ProductSales](img/2_productSales.png)
-<hr>
+
 ![SalesQtr](img/3_salesqtr.png)
-<hr>
+
 ![SalesCity](img/4_salescity.png)
+
 <hr>
 
 ## Copyright
